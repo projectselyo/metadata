@@ -1,0 +1,23 @@
+{
+    "name": "Solana Foundation (BCC2024)",
+    "symbol": "BCC2024",
+    "image": "",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Blockchain Campus Conference"
+        },
+        {
+            "trait_type": "year",
+            "value": "2024"
+        },
+        {
+            "trait_type": "region",
+            "value": "Mindanao"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://blockchaincampusconference.com/"
+        }
+    ]
+}
