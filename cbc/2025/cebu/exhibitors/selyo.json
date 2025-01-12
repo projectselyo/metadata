@@ -1,0 +1,24 @@
+{
+    "name": "Selyo (CBC2025)",
+    "description": "Visted Selyo booth during CBC2025 in Cebu",
+    "symbol": "CBC2025",
+    "image": "https://i.imgur.com/w9CBrXG.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Cebu Blockchain Conference"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Visayas"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://visayasblockchain.ph/"
+        }
+    ]
+}
