@@ -1,8 +1,8 @@
 {
-    "name": "Selyo (CBC2025)",
-    "description": "Visted Selyo booth during CBC2025 in Cebu",
+    "name": "Zplatz (CBC2025)",
+    "description": "Visted Zplatz booth during CBC2025 in Cebu",
     "symbol": "CBC2025",
-    "image": "https://i.imgur.com/2CEXL1w.png",
+    "image": "https://i.imgur.com/3RHY9Ux.png",
     "attributes": [
         {
             "trait_type": "event",
