@@ -1,0 +1,24 @@
+{
+    "name": "Coinsph (CBC2025)",
+    "description": "Visited Coins.Ph booth during CBC2025 in Cebu",
+    "symbol": "CBC2025",
+    "image": "https://imgur.com/2lyB8cT.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Cebu Blockchain Conference"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Visayas"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://visayasblockchain.ph/"
+        }
+    ]
+}
