@@ -1,0 +1,24 @@
+{
+    "name": "Core Connect Bootcamp Manila (CCBMNL2025)",
+    "description": "Core Connect Bootcamp Completer",
+    "symbol": "CCB2025",
+    "image": "https://i.imgur.com/tI15nZs.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Core Connect Bootcamp"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://lu.ma/za6wixw4"
+        }
+    ]
+}
