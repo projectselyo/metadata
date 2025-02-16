@@ -2,7 +2,7 @@
     "name": "Core Connect Bootcamp(CCB2025)",
     "description": "Core Connect Bootcamp Giveaway",
     "symbol": "CCB2025",
-    "image": "https://i.imgur.com/tI15nZs.jpeg",
+    "image": "https://i.imgur.com/XJ0O9wv.png",
     "attributes": [
         {
             "trait_type": "event",
@@ -18,7 +18,7 @@
         },
         {
             "trait_type": "website",
-            "value": "https://lu.ma/za6wixw4"
+            "value": "selyo.quest"
         }
     ]
 }
