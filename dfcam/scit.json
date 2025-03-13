@@ -1,0 +1,25 @@
+
+{
+    "name": "DFCAMCLP 27th FDC SCIT",
+    "description": "This is one of the NFT included in the Hunt during the 27th DFCAMCLP-FDC.",
+    "symbol": "DFCAMCLP 27th FDC",
+    "image": "https://i.imgur.com/SmEG1CM.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "27th DFCAMCLP-FDC"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://web.facebook.com/PSITEDFCAMCLP"
+        }
+    ]
+}
