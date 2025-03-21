@@ -1,0 +1,25 @@
+
+{
+    "name": "STEAMlab",
+    "description": "This is one of the NFT included in the Hunt during Arduino Day Philippines 2025",
+    "symbol": "ADPH2025",
+    "image": "https://i.imgur.com/h9la2LX.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Arduino Day Philippines"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/arduinodayph"
+        }
+    ]
+}
