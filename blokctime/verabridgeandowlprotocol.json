@@ -1,0 +1,25 @@
+
+{
+    "name": "VeraBridge and Owl Protocol",
+    "description": "BLOKCTIME: Fastrack Web3 Development with VeraBridge and Owl Protocol",
+    "symbol": "BLOKCTIME",
+    "image": "https://i.imgur.com/ocyBaqt.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "BLOKCTIME"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   

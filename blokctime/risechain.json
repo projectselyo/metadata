@@ -1,0 +1,25 @@
+
+{
+    "name": "RISE Chain",
+    "description": "BLOKCTIME: Interacting with RISE Chain using viem",
+    "symbol": "BLOKCTIME",
+    "image": "https://i.imgur.com/COz9lro.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "BLOKCTIME"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
