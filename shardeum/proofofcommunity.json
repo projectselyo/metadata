@@ -1,0 +1,24 @@
+{
+    "name": "Shardeum",
+    "description": "​Shardeum: Proof of Community",
+    "symbol": "​Shardeum",
+    "image": "https://i.imgur.com/OAlpVtr.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "​Shardeum: Proof of Community"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://lu.ma/ozbp0urt?tk=4VxCmG"
+        }
+    ]
+}
