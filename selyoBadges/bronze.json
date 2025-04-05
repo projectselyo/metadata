@@ -1,0 +1,24 @@
+{
+    "name": "Bronze Badge",
+    "description": "Attended Shardeum Meet-up at BlokcSpace, Makati",
+    "symbol": "Selyo Badges",
+    "image": "https://i.imgur.com/JY0Zvf6.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Shardeum Meet-up 040325"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
