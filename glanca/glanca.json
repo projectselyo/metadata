@@ -1,0 +1,24 @@
+{
+    "name": "GLanca Philippines",
+    "description": "GLanca Philippines Meetup",
+    "symbol": "JBECPMNL",
+    "image": "https://i.imgur.com/c6GZTgZ.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "GLanca Philippines Meetup"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://lu.ma/syb8p3b2?tk=oQKWC1"
+        }
+    ]
+}
