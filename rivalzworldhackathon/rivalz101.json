@@ -1,0 +1,25 @@
+
+{
+    "name": "Rivalz 101 & Intro to RAG",
+    "description": "Rivalz World Hackathon: Rivalz 101 & Intro to RAG",
+    "symbol": "BLOKCTIME",
+    "image": "https://i.imgur.com/f2vvwIa.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "BLOKCTIME"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
