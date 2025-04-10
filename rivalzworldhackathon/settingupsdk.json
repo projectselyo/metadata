@@ -1,0 +1,25 @@
+
+{
+    "name": "Setting Up the SDK & Managing Knowledge Bases with Rivalz",
+    "description": "Rivalz World Hackathon: Setting Up the SDK & Managing Knowledge Bases with Rivalz",
+    "symbol": "Rivalz World Hackathon",
+    "image": "https://i.imgur.com/h8U3uhR.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Rivalz World Hackathon"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
