@@ -1,0 +1,25 @@
+
+{
+    "name": "APTOS HOURS: BLOKCSPACE",
+    "description": "Attended the APTOS HOURS: BLOKCSPACE",
+    "symbol": "APTOS HOURS",
+    "image": "https://i.imgur.com/BbCaEQP.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "APTOS HOURS"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
