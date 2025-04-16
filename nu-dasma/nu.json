@@ -1,0 +1,24 @@
+{
+    "name": "JBECPNUDASMA",
+    "description": "Making the Move with Aptos: Understanding the Fundamentals of Web3 Technology",
+    "symbol": "JBECPNUDASMA",
+    "image": "https://i.imgur.com/VOzRrMU.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Making the Move with Aptos: Understanding the Fundamentals of Web3 Technology"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/jbecp.nudasma"
+        }
+    ]
+}
