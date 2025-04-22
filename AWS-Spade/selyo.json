@@ -1,0 +1,24 @@
+{
+    "name": "Hiraya Network",
+    "description": "This is one of the NFT included in the Hunt during Campus Devcon 2025 at Cavite State University-Main Campus",
+    "symbol": "AWS-SPADE",
+    "image": "https://i.imgur.com/YUs5jgN.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Campus Devcon 2025"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "selyo.quest"
+        }
+    ]
+}
