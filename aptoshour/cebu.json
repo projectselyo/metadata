@@ -1,0 +1,25 @@
+
+{
+    "name": "APTOS HOURS: Cebu",
+    "description": "Attended the APTOS HOURS: Cebu",
+    "symbol": "APTOS HOURS",
+    "image": "https://i.imgur.com/qIdFB51.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "APTOS HOURS"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
