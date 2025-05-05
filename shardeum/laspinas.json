@@ -1,8 +1,10 @@
+
+
 {
-    "name": "Mainnet Watch Party: Makati",
-    "description": "Mainnet Watch Party: Makati",
+    "name": "Mainnet Watch Party: Las Piñas",
+    "description": "Mainnet Watch Party: Las Piñas",
     "symbol": "​Shardeum",
-    "image": "https://i.imgur.com/c7rELSj.png",
+    "image": "https://i.imgur.com/JNQVIAh.png",
     "attributes": [
         {
             "trait_type": "event",
