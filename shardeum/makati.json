@@ -1,0 +1,24 @@
+{
+    "name": "Mainnet Launch Party: Makati",
+    "description": "Mainnet Launch Party: Makati",
+    "symbol": "​Shardeum",
+    "image": "https://i.imgur.com/c7rELSj.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Mainnet Launch Party"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://lu.ma/ozbp0urt?tk=4VxCmG"
+        }
+    ]
+}
