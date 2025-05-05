@@ -1,0 +1,25 @@
+
+{
+    "name": "The Blocklabs Academy: Solidity Development Environment",
+    "description": "Attended the Blocklabs Academy: Solidity Development Environment",
+    "symbol": "The Blocklabs Academy",
+    "image": "https://i.imgur.com/96TCfnJ.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "The Blocklabs Academy"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   

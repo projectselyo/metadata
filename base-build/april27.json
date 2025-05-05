@@ -1,0 +1,25 @@
+
+{
+    "name": "BASE BUILD: Unlocking Developer Potential in the Web3 Ecosystem",
+    "description": "Attended the BASE BUILD: Unlocking Developer Potential in the Web3 Ecosystem",
+    "symbol": "BASE BUILD",
+    "image": "https://i.imgur.com/zzP3B3t.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "BASE BUILD"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   

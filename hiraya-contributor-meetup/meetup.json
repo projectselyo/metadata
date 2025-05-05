@@ -1,0 +1,25 @@
+
+{
+    "name": "HIRAYA NETWORK CONTRIBUTORS' MEETUP",
+    "description": "Attended the HIRAYA NETWORK CONTRIBUTORS' MEETUP",
+    "symbol": "HIRAYA NETWORK",
+    "image": "https://i.imgur.com/nZTdyID.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "HIRAYA NETWORK"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/hirayanetwork"
+        }
+    ]
+}   
