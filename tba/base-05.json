@@ -1,0 +1,25 @@
+
+{
+    "name": "The Blocklabs Academy: Hands-on DApp Development ",
+    "description": "Attended the Blocklabs Academy: Hands-on DApp Development ",
+    "symbol": "The Blocklabs Academy",
+    "image": "https://i.imgur.com/Ch33EnV.png",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "The Blocklabs Academy"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://www.facebook.com/Theblokcofficial"
+        }
+    ]
+}   
