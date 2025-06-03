@@ -1,0 +1,24 @@
+{
+    "name": "Beyond the Block: Connecting the Past, Redefining the Future",
+    "description": "Attended Beyond the Block",
+    "symbol": "JBECPMNL",
+    "image": "https://i.imgur.com/oi6NngP.jpeg",
+    "attributes": [
+        {
+            "trait_type": "event",
+            "value": "Beyond The Block"
+        },
+        {
+            "trait_type": "year",
+            "value": "2025"
+        },
+        {
+            "trait_type": "region",
+            "value": "Luzon"
+        },
+        {
+            "trait_type": "website",
+            "value": "https://lu.ma/7lvexydz"
+        }
+    ]
+}
